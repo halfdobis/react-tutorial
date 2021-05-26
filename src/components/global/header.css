@@ -1,0 +1,15 @@
+.title {
+  text-transform: uppercase;
+  font-weight: 800;
+}
+
+.links {
+  padding-right: 20px;
+}
+
+.links a {
+  color: #000;
+  padding-left: 7px;
+  font-size: 18px;
+  text-transform: capitalize;
+}
