@@ -11,6 +11,7 @@ function Header() {
          <a href="#">products</a>
          <a href="#">contact us</a>
          <a href="#">about us</a>
+         <a href="#" target="_blank" rel="noopener noreferrer">contact us</a>
        </div>
      </nav>
     </div>
